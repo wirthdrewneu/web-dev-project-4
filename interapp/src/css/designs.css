@@ -1,0 +1,145 @@
+ .select,
+  #locale {
+    width: 100%;
+  }
+  .like {
+    margin-right: 10px;
+  }
+
+
+  
+.card {display:inline-block;}
+
+.nav-header {
+	background-color: #13B086
+}
+.card-header, .header-std {
+	background-color: #13B086;
+}
+.rbc-event-content{
+	background-color: #13B086;
+	color: black;
+}
+.rbc-event.rbc-selected {
+    background-color: #13B086;
+}
+
+.main-background {
+	background-color: #B03813;
+}
+
+.btn-primary{
+	background-color: transparent;
+    color: #631B05;
+    border-color: #631B05;
+}
+.btn-outline-primary {
+	color: #631B05;
+    border-color: #631B05;
+}
+
+
+.btn-primary:hover, .btn-outline-primary:hover{
+	background-color: #631B05;
+    border-color: #631B05;
+}
+
+.p-2 .text-dark{
+
+color: 	#000000 !important;
+font-family: "Lora",  Arial, serif;
+
+}
+
+
+
+
+
+.skip-link {
+position: absolute;
+top:-45px;
+left: -200px;
+background: #BF1722;
+color: white;
+padding: 8px;
+z-index:100;
+
+}
+
+
+
+.skip-link:focus{
+	top: 75px;
+	left: 15px;
+	padding: 8px;
+}
+
+.skip-link:hover{
+	color: white;
+}
+
+
+
+ h1 {
+	font-family: "Lora", Arial, serif;
+	font-size: 28px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 26.4px;
+	color: 	#000000;
+
+}
+
+
+ h5 {
+	font-family: "Lora",  Arial, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 26.4px;
+	color: 	#000000;
+}
+h2 {
+	font-family: "Lora",  Arial, serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 15.4px;
+	color: 	#000000;
+}
+h3 {
+	font-family: "Lora",  Arial, serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 15.4px;
+	color: 	#000000;
+}
+p {
+	font-family: "Lora",  Arial, serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+	color: 	#000000;
+}
+
+
+a  {
+	font-family: "Lora", Arial, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 26.4px;
+	color: 	#000000 important!;
+}
+
+/*Courier New*/
+
+

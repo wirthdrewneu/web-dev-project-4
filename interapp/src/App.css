@@ -1,0 +1,49 @@
+.limitText {
+  max-height: 50px;
+  max-width: 320px;
+  overflow: scroll;
+  display: block;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+
+.shadow {
+  box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
+}
+
+.padding-std {
+  padding: 0.75rem 1.25rem;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.filter-by {
+  cursor: pointer;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.full-height {
+  min-height: 100vh;
+}
+
+.full-width {
+  width: 100%;;
+}
+
+.head-text {
+  font-size: 18px;
+}
