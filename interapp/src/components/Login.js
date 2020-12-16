@@ -3,7 +3,8 @@ import "../css/designs.css"
 import { Link } from "react-router-dom";
 
 
-
+// I could not find a register page, so I was not able to sign up and sign in
+// I think it would also be nice for you to add a go back to home button here 
 function Login() {
 /*   
 return "done"*/

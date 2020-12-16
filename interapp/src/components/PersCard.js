@@ -26,7 +26,10 @@ console.log("apart", apart);
    
      <div className = "container">
     
-
+  // Code review: I love your consideration of accessibility in your design, including the voice over and easy navigation for screen readers
+  // When I use axe to run on your homepage, there were a lot of color constrast issues, maybe this is something that could be improve on for the future?
+  // It would also be nice if you can add some preview images to the list of posts, or after the user log in
+      
      { apart.map (post =>         
 
           <div className="card mb-3 shadow-sm w-50" >
