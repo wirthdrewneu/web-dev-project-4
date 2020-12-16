@@ -26,7 +26,9 @@ console.log("apart", apart);
    
      <div className = "container">
     
-
+  // Code review: I think it would be nice if you take more consideration accessibility into your design
+  // When I use axe to run on your homepage, there were a lot of color constrast issues
+      
      { apart.map (post =>         
 
           <div className="card mb-3 shadow-sm w-50" >
