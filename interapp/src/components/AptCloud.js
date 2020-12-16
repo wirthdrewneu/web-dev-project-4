@@ -2,7 +2,7 @@ import React, { useEffect ,useState, Component } from "react";
 import "../css/designs.css"
 import ReactWordcloud from 'react-wordcloud';
 
-
+// Code review: I really enjoyed your word cloud idea, it lets the users see what are the most common words used in housing posts, I think its very creative and eye catching 
 
 function AptCloud(props) {
 
